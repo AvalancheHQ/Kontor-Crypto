@@ -2,6 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/kontor-crypto.svg)](https://crates.io/crates/kontor-crypto)
 [![CI](https://github.com/KontorProtocol/Kontor-Crypto/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/KontorProtocol/Kontor-Crypto/actions)
+[![CodSpeed Badge](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/AvalancheHQ/Kontor-Crypto)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/KontorProtocol/Kontor-Crypto/blob/main/LICENSE)
 
 > **⚠️ WARNING: This code is unaudited and experimental. Use at your own risk.**

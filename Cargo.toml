@@ -53,6 +53,7 @@ reed-solomon-erasure = "6.0"
 clap = { version = "4.5.10", features = ["derive"] }
 rand = "0.8.5"
 statrs = "0.18.0"
+criterion = { package = "codspeed-criterion-compat", version = "4.1.0" }
 
 [features]
 default = []
@@ -75,3 +76,7 @@ opt-level = 3
 [[bin]]
 name = "bench"
 path = "src/bench.rs"
+
+[[bench]]
+name = "kontor_benchmarks"
+harness = false
